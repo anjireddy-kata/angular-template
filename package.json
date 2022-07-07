@@ -43,7 +43,7 @@
     "idtoken-verifier": "^1.2.0",
     "is-docker": "^2.0.0",
     "karma-sonarqube-unit-reporter": "0.0.21",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.28",
     "ngx-clipboard": "^13.0.0",
     "ngx-cookie-service": "^2.2.0",
