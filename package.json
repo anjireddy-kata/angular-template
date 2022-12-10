@@ -39,7 +39,7 @@
     "crypto-js": "^3.1.9-1",
     "docx": "^5.0.2",
     "file-saver": "^2.0.2",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "idtoken-verifier": "^1.2.0",
     "is-docker": "^2.0.0",
     "karma-sonarqube-unit-reporter": "0.0.21",
